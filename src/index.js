@@ -16,7 +16,7 @@ const routes = {
   "cloudsmith.kotori.rest": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.closeai.me": dockerHub,
+  "docker-staging.kotori.rest": dockerHub,
 };
 
 function routeByHosts(host) {
